@@ -1,0 +1,28 @@
+body {
+	background-color: #F0F0F0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.rounded-border {
+	border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	border: 1px solid #DCDCDC;
+}
+
+.be-white {
+	background-color: white;
+}
+
+.font-lato {
+	font-family: 'Lato', sans-serif;
+}
+
+.scrool-table {
+	overflow-y: auto; 
+	height: 260px;
+}
+
+.height-table {
+	height: 320px;	
+}
